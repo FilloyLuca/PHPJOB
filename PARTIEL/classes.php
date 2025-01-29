@@ -51,10 +51,13 @@ class Personne {
 
 	//Méthodes
 	private function afficher() {
-		echo "Affichage des caractéristiques";
+		$this->num .'<br/>';
+		$this->nom .'<br/>';
+		$this->getPrenom .'<br/>';
+		$this->entreprise->nom .'<br/>';
 	}
 
-	public calculerSalaire() {
+	public function calculerSalaire() {
 		echo "Erreur de connexion à la BDD";
 	}
 }
