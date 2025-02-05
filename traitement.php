@@ -5,7 +5,7 @@ $$developpeur = array(
 	"lmleflock@test.net", "0606060606", 2500, "Java"),
 	new Developpeur(650, "Chellal", "Ali", "ach@test.net", "0707070707", 2750,
 	"C++"),
-	new Developpeur(151,"Katsiev", "Amir", "amir@test.net", "0606060606",2750,
+	new Developeur(151,"Katsiev", "Amir", "amir@test.net", "0606060606",2750,
 	"Kotlin")
 );
 
