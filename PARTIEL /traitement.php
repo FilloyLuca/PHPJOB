@@ -6,7 +6,7 @@ $$developpeur = array(
 	new Developpeur(650, "Chellal", "Ali", "ach@test.net", "0707070707", 2750,
 	"C++"),
 	new Developpeur(151,"Katsiev", "Amir", "amir@test.net", "0606060606",2750,
-	"Kotlin"
+	"Kotlin")
 );
 
 $manager = array(new Manager(500, "RIPAULT", "Alexis", "alexis@mana.net",
